@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  13 NOV 2020 17:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  13 NOV 2020 21:17
 entering extended mode
 **./FF13_AllMissions.tex
 (FF13_AllMissions.tex
@@ -994,14 +994,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 431--432
 []\OT1/cmr/m/n/10 Sturdy Bone/Barbed Tail/Vibrant
  []
 
-) (sections/13_finale.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.599 
+       [27]pdfTeX warning (ext4): destination with the same identifier (name{pa
+ge.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.778 
+       [28]) (sections/13_finale.tex
 Chapter 13.
-)pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.147 
+       [29])pdfTeX warning (ext4): destination with the same identifier (name{p
+age.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.133 \end{document}
-                     [27]
+                     [30]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
  (FF13_AllMissions.aux)
@@ -1011,10 +1026,10 @@ Package rerunfilecheck Info: File `FF13_AllMissions.out' has not changed.
 (rerunfilecheck)             Checksum: 6B720DA0050DDBEE964C0FCEA33BD131;696.
  ) 
 Here is how much of TeX's memory you used:
- 18109 strings out of 481311
- 343441 string characters out of 2916959
- 724387 words of memory out of 3000000
- 33180 multiletter control sequences out of 15000+200000
+ 18121 strings out of 481311
+ 343645 string characters out of 2916959
+ 727387 words of memory out of 3000000
+ 33192 multiletter control sequences out of 15000+200000
  539772 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,9n,75p,842b,750s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1030,9 +1045,9 @@ fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Programy/MiKTeX/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb><D:/Programy/MiKTeX/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmti10.pfb><D:/Programy/MiKTeX/MiKTeX 2.9/fonts/type1/public/a
 msfonts/latxfont/lasy6.pfb>
-Output written on FF13_AllMissions.pdf (28 pages, 2284834 bytes).
+Output written on FF13_AllMissions.pdf (31 pages, 2299168 bytes).
 PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
+ 235 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
  122 words of extra memory for PDF output out of 10000 (max. 10000000)
 

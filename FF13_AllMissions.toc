@@ -1,0 +1,13 @@
+\contentsline {chapter}{\numberline {1}Chapters 1-10}{}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Archylte Steppe, pt. I}{}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Vallis Media \& Yaschas Massif}{}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Archylte Steppe, pt. II}{}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Mah'habara Subterra \& Sulyya Springs}{}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Taejin's Tower}{}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Oerba}{}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Chapter 12}{}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Orphan's Cradle}{}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Return to Gran Pulse}{}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Faultwarrens}{}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Gran Pulse Cleanup}{}{chapter.12}%
+\contentsline {chapter}{\numberline {13}The Finale}{}{chapter.13}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  13 NOV 2020 21:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  14 MAR 2023 15:34
 entering extended mode
 **./FF13_AllMissions.tex
 (FF13_AllMissions.tex
@@ -781,126 +781,101 @@ LaTeX Info: Redefining \nameref on input line 105.
 \@outlinefile=\write6
 \openout6 = `FF13_AllMissions.out'.
 
-<final_fantasy_xiii_logo_by_eldi13_d42h0oc.png, id=58, 1678.27pt x 1556.214pt>
-File: final_fantasy_xiii_logo_by_eldi13_d42h0oc.png Graphic file (type png)
-<use final_fantasy_xiii_logo_by_eldi13_d42h0oc.png>
-Package pdftex.def Info: final_fantasy_xiii_logo_by_eldi13_d42h0oc.png  used on
- input line 107.
-(pdftex.def)             Requested size: 585.38747pt x 542.80714pt.
- [1
-
-{C:/Users/Olson/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./final_fan
-tasy_xiii_logo_by_eldi13_d42h0oc.png>] (FF13_AllMissions.toc)
-\tf@toc=\write7
-\openout7 = `FF13_AllMissions.toc'.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.115 \newpage
-               [1] (sections/01_beginning.tex
+ (sections/01_beginning.tex
 Chapter 1.
 ) (sections/02_archylte_pt1.tex
 Chapter 2.
 ) (sections/03_vallis_yaschas.tex
 Chapter 3.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+[1
+
+{C:/Users/Olson/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]pdfTeX warni
+ng (ext4): destination with the same identifier (name{page.}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86 
-      [2]) (sections/04_archylte_pt2.tex
+l.262 \newpage
+               [2]) (sections/04_archylte_pt2.tex
 Chapter 4.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 
-      [3]pdfTeX warning (ext4): destination with the same identifier (name{page
-.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.212 
-       [4]pdfTeX warning (ext4): destination with the same identifier (name{pag
+l.288 
+       [3]pdfTeX warning (ext4): destination with the same identifier (name{pag
 e.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.390 
-       [5]pdfTeX warning (ext4): destination with the same identifier (name{pag
-e.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.561 
-       [6]) (sections/05_mahhabara.tex
+l.459 
+       [4]) (sections/05_mahhabara.tex
 Chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-[]\OT1/cmr/m/n/10 Everything ex-cept
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+[]\OT1/cmr/m/n/10 Everything ex-cept for Per-fect or
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.171 
-       [7]) (sections/06_taejins.tex
+l.110 
+       [5]) (sections/06_taejins.tex
 Chapter 6.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.145 
-       [8]) (sections/07_oerba.texpdfTeX warning (ext4): destination with the s
-ame identifier (name{page.}) has been already used, duplicate ignored
+l.83 
+      [6]pdfTeX warning (ext4): destination with the same identifier (name{page
+.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1 \chapter{Oerba}
-                    [9]
+l.301 
+       [7]) (sections/07_oerba.tex
 Chapter 7.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.173 
-       [10]) (sections/08_chapter12.tex
+l.153 
+       [8]pdfTeX warning (ext4): destination with the same identifier (name{pag
+e.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.254 \newpage
+               [9]) (sections/08_chapter12.tex
 Chapter 8.
 
-Overfull \hbox (6.18771pt too wide) in paragraph at lines 84--85
+Overfull \hbox (6.18771pt too wide) in paragraph at lines 85--86
 [][] 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.105 
-       [11]) (sections/09_cradle.tex
+) (sections/09_cradle.tex
 Chapter 9.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 
-      [12]pdfTeX warning (ext4): destination with the same identifier (name{pag
-e.}) has been already used, duplicate ignored
+l.3 A
+     ccess the shop. [10]pdfTeX warning (ext4): destination with the same ident
+ifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.278 
-       [13]) (sections/10_return.tex
+l.273 
+       [11]) (sections/10_return.tex
 Chapter 10.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.152 	
-        [14]
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+l.158 	
+        [12]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 []\OT1/cmr/m/it/10 Shift to [4] dur-ing CB if no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 []\OT1/cmr/m/it/10 Shift to [4] dur-ing CB if no
  []
 
@@ -908,9 +883,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.292 
-       [15]
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+l.298 
+       [13]
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
 []\OT1/cmr/m/n/10 back 18, left 1 (HP+70 be-fore
  []
 
@@ -918,14 +893,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.552 
-       [16]pdfTeX warning (ext4): destination with the same identifier (name{pa
+l.545 
+       [14]pdfTeX warning (ext4): destination with the same identifier (name{pa
 ge.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.638 
-       [17]
-Underfull \hbox (badness 10000) in paragraph at lines 758--759
+l.726 
+       [15]
+Underfull \hbox (badness 10000) in paragraph at lines 753--754
 []\OT1/cmr/m/n/10 Tetradic Tiara Lv.1 $\OMS/cmsy/m/n/10 !$ \OT1/cmr/m/n/10 War-
 rior's
  []
@@ -934,21 +909,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.817 
-       [18]) (sections/11_faultwarrens.tex
+l.814 \newpage
+               [16]) (sections/11_faultwarrens.tex
 Chapter 11.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.213 \end{battle}
-                   [19]pdfTeX warning (ext4): destination with the same identif
-ier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.387 
-       [20]
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
+l.245 
+       [17]
+Underfull \hbox (badness 10000) in paragraph at lines 478--479
 []\OT1/cmr/m/n/10 Alternate with Snow to keep up
  []
 
@@ -956,30 +926,35 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.607 
-       [21]pdfTeX warning (ext4): destination with the same identifier (name{pa
+l.484 
+       [18]pdfTeX warning (ext4): destination with the same identifier (name{pa
 ge.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.807 
-       [22]pdfTeX warning (ext4): destination with the same identifier (name{pa
+l.655 
+       [19]pdfTeX warning (ext4): destination with the same identifier (name{pa
 ge.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1034 
-        [23]) (sections/12_cleanup.tex
+l.852 
+       [20]pdfTeX warning (ext4): destination with the same identifier (name{pa
+ge.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1048 
+        [21]) (sections/12_cleanup.tex
 Chapter 12.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.25 
-      [24]pdfTeX warning (ext4): destination with the same identifier (name{pag
+      [22]pdfTeX warning (ext4): destination with the same identifier (name{pag
 e.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.184 
-       [25]
+       [23]
 Underfull \hbox (badness 10000) in paragraph at lines 339--340
 []\OT1/cmr/m/n/10 Refresh Sazh and Vanille so that
  []
@@ -989,34 +964,34 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.377 
-       [26]
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
-[]\OT1/cmr/m/n/10 Sturdy Bone/Barbed Tail/Vibrant
+       [24]pdfTeX warning (ext4): destination with the same identifier (name{pa
+ge.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.618 \end{battle}
+                   [25]pdfTeX warning (ext4): destination with the same identif
+ier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.820 
+       [26]) (sections/13_finale.tex
+Chapter 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/10 Auto-chain, shift be-fore next at-tack
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.599 
-       [27]pdfTeX warning (ext4): destination with the same identifier (name{pa
-ge.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.778 
-       [28]) (sections/13_finale.tex
-Chapter 13.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.147 
-       [29])pdfTeX warning (ext4): destination with the same identifier (name{p
+l.161 
+       [27])pdfTeX warning (ext4): destination with the same identifier (name{p
 age.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.133 \end{document}
-                     [30]
+                     [28]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
  (FF13_AllMissions.aux)
@@ -1026,28 +1001,25 @@ Package rerunfilecheck Info: File `FF13_AllMissions.out' has not changed.
 (rerunfilecheck)             Checksum: 6B720DA0050DDBEE964C0FCEA33BD131;696.
  ) 
 Here is how much of TeX's memory you used:
- 18121 strings out of 481311
- 343645 string characters out of 2916959
- 727387 words of memory out of 3000000
- 33192 multiletter control sequences out of 15000+200000
- 539772 words of font info for 50 fonts, out of 3000000 for 9000
+ 18079 strings out of 481311
+ 343083 string characters out of 2916959
+ 732481 words of memory out of 3000000
+ 33165 multiletter control sequences out of 15000+200000
+ 534852 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,9n,75p,842b,750s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,9n,75p,842b,743s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Olson\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk><D:/Programy/MiKTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
 0.pfb><D:/Programy/MiKTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <D:/Programy/MiKTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/
 Programy/MiKTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Progra
 my/MiKTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Programy/MiKT
-eX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Programy/MiKTeX/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Programy/MiKTeX/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Programy/MiKTeX/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><D:/Programy/MiKTeX/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmti10.pfb><D:/Programy/MiKTeX/MiKTeX 2.9/fonts/type1/public/a
-msfonts/latxfont/lasy6.pfb>
-Output written on FF13_AllMissions.pdf (31 pages, 2299168 bytes).
+eX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programy/MiKTeX/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Programy/MiKTeX/MiKTeX 2.
+9/fonts/type1/public/amsfonts/latxfont/lasy6.pfb>
+Output written on FF13_AllMissions.pdf (28 pages, 258678 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 117 words of extra memory for PDF output out of 10000 (max. 10000000)
 

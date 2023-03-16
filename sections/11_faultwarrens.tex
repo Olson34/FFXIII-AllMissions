@@ -23,16 +23,17 @@
 
 \begin{menu}
 	\begin{itemize}
+	\item Switch [1] and [6]
 	\paradigm
 		\begin{itemize}
 			\item \paradigmdeck{%
   				\paradigmline{Sazh}{Snow}{Vanille}}%
 				{\paradigmline{\com}{\com}{\med}}%
-				{\paradigmline[4]{\com}{\com}{\sab}}%
-				{\paradigmline{\syn}{\sen}{(\sab)}}%
-				{\paradigmline{(\rav)}{\rav}{(\rav)}}%
 				{\paradigmline{\com}{\sen}{\sab}}%
+				{\paradigmline{\syn}{\sen}{(\sab)}}%
+				{\paradigmline[4]{\com}{\com}{\sab}}%
 				{\paradigmline{\rav}{(\sen)}{(\rav)}}%
+				{\paradigmline{(\rav)}{\rav}{(\rav)}}%
 		\end{itemize}
 	\crystarium
 		\begin{itemize}
@@ -64,22 +65,21 @@
 						\begin{itemize}
 							\item 4 nodes, 3 up (HP+100)
 							\item 2 nodes, up 1 (HP+100)
-							\item 4 nodes, down 1 (HP+100)
+							\item 4 nodes(HP+100)
 						\end{itemize}
 				\end{itemize}
 			\item Vanille
 				\begin{itemize}
+					\item \med
+						\begin{itemize}
+							\item 3 nodes, down 1 (HP+80)
+							\item 2 nodes, left 3 (Stopga)
+							\item 1 node, left 1 (HP+50)
+						\end{itemize}
 					\item \sab
 						\begin{itemize}
 							\item 3 nodes, left 1 (HP+100)
 							\item right 1 (Role Level 4)
-						\end{itemize}
-					\item \med
-						\begin{itemize}
-							\item 3 nodes, down 1 (HP+80)
-							\item 2 nodes, left 1 (HP+80)
-							\item 1 node, left 1 (HP+50)
-							\item 1 node, left 1 (HP+100), 1 node
 						\end{itemize}
 				\end{itemize}
 		\end{itemize}
@@ -104,11 +104,11 @@
 \end{menu}
 
 \renewcommand{\first}{[1] Tireless Charge (\com/\com/\med)}
-\renewcommand{\second}{[2] Devastation (\com/\com/\sab)}
+\renewcommand{\second}{[2] Dirty Fighting (\com/\sen/\sab)}
 \renewcommand{\third}{[3] Premeditation (\syn/\sen/\sab)}
-\renewcommand{\fourth}{[4] Tri-Disaster (\rav/\rav/\rav)}
-\renewcommand{\fifth}{[5] Dirty Fighting (\com/\sen/\sab)}
-\renewcommand{\sixth}{[6] Mystic Tower (\rav/\sen/\rav)}
+\renewcommand{\fourth}{[4] Devastation (\com/\com/\sab)}
+\renewcommand{\fifth}{[5] Mystic Tower (\rav/\sen/\rav)}
+\renewcommand{\sixth}{[6] Tri-Disaster (\rav/\rav/\rav)}
 
 FW Loop 1: 35 $\rightarrow$ 37 $\rightarrow$ 40 $\rightarrow$ 43 $\rightarrow$ 48 (Right $\rightarrow$ Right $\rightarrow$ Left $\rightarrow$ Left)
 
@@ -116,15 +116,15 @@ Use a \textbf{Deceptisol} for every Gurangatch fight.
 
 \begin{battle}{Mission 35: Gurangatch -- Pre-Empt}
 	\begin{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Blitz, \rav-buffer into [4]
 			\end{itemize}
-		\item \fourth
+		\item \sixth
 			\begin{itemize}
 				\item Shift immediately
 			\end{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Attack x4
 				\item Repeat enough Attacks to kill
@@ -138,7 +138,7 @@ Try to pre-empt it.
 \begin{battle}{Mission 37: Rafflesia x5 -- Pre-Empt}
 	\textit{Pre-Empt:}
 	\begin{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Blitz-Blitz until victory
 			\end{itemize}
@@ -146,7 +146,7 @@ Try to pre-empt it.
 	\rule{.9\columnwidth}{1pt}\newline
 	\textit{No Pre-Empt}:
 	\begin{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Shift immediately
 			\end{itemize}
@@ -154,7 +154,7 @@ Try to pre-empt it.
 			\begin{itemize}
 				\item Bravery-Enfire Sazh
 			\end{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Blitz-Blitz until victory
 			\end{itemize}
@@ -165,7 +165,7 @@ Activate Mission 40 on the right path.
 
 \begin{battle}{Mission 40: Verdelet x2}
 	\begin{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Attack x4 on the same target as Snow
 				\item Repeat until victory
@@ -219,7 +219,7 @@ After M43, go back and activate Mission 49 on the left.
 
 \begin{battle}{Mission 49: Tyrant}
 	\begin{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Shift immediately
 			\end{itemize}
@@ -228,11 +228,11 @@ After M43, go back and activate Mission 49 on the left.
 				\item Bravery-Protect Sazh
 				\item Enthunder Sazh
 			\end{itemize}
-		\item \fifth
+		\item \second
 			\begin{itemize}
 				\item Blitz-Blitz until the Blade is dead
 			\end{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Repeat until Deprotect inflicts
 			\end{itemize}
@@ -251,7 +251,7 @@ After M40, activate M44 on the right.
 
 \begin{battle}{{Mission 44: Corrosive Custard, Monstrous Flan \& Hybrid Flora -- Pre-Empt}}
 	\begin{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Quake
 				\item Summon to dodge Quake/Slap from Custard
@@ -270,7 +270,7 @@ Activate Mission 50 on the left.
 
 \begin{battle}{Mission 50: Humbaba}
 	\begin{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Shift immediately
 			\end{itemize}
@@ -280,7 +280,7 @@ Activate Mission 50 on the left.
 				\item Repeat Snow ($\uparrow$)
 				\item Auto-Support Snow
 			\end{itemize}
-		\item \fourth
+		\item \sixth
 			\begin{itemize}
 				\item Fire-Thunder-Fire-Thunder-Fire
 				\item Repeat until $\sim$375-400\% chain
@@ -308,17 +308,17 @@ After M37, activate Mission 39 on the left.
 			\item \paradigmdeck{%
   				\paradigmline{Sazh}{Snow}{Vanille}}%
 				{\paradigmline{\com}{(\sen)}{\med}}%
-				{\paradigmline{\com}{\com}{\sab}}%
-				{\paradigmline[4]{\syn}{\sen}{\sab}}%
-				{\paradigmline{\rav}{\rav}{\rav}}%
 				{\paradigmline{(\sab)}{\sen}{\sab}}%
+				{\paradigmline[4]{\syn}{\sen}{\sab}}%
+				{\paradigmline{\com}{\com}{\sab}}%
 				{\paradigmline{\rav}{\sen}{\rav}}%
+				{\paradigmline{\rav}{\rav}{\rav}}%
 		\end{itemize}
 	\end{itemize}
 \end{menu}
 
 \renewcommand{\first}{[1] Solidarity (\com/\sen/\med)}
-\renewcommand{\fifth}{[5] Countermeasure (\sab/\sen/\sab)}
+\renewcommand{\second}{[2] Countermeasure (\sab/\sen/\sab)}
 
 \begin{battle}{Mission 39: Ochu \& Microchu x2}
 	\begin{itemize}
@@ -327,7 +327,7 @@ After M37, activate Mission 39 on the left.
 				\item Auto-Support Vanille ($\uparrow$)
 				\item Bravery-Enfire Sazh
 			\end{itemize}
-		\item \fifth
+		\item \second
 			\begin{itemize}
 				\item Auto-Hinder (Deprotect) Ochu
 					\begin{itemize}
@@ -338,7 +338,7 @@ After M37, activate Mission 39 on the left.
 			\begin{itemize}
 				\item Blitz-Blitz Ochu until dead
 			\end{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Repeat until victory, refresh with [1]
 			\end{itemize}												
@@ -355,7 +355,7 @@ Go right at each fork to begin the mission.
 				\item Auto-Support Vanille ($\uparrow$)
 				\item Bravery-Enfire Sazh
 			\end{itemize}
-		\item \fifth
+		\item \second
 			\begin{itemize}
 				\item Auto-Hinder (Deprotect) all Borgbears
 			\end{itemize}
@@ -363,7 +363,7 @@ Go right at each fork to begin the mission.
 			\begin{itemize}
 				\item Quake
 			\end{itemize}
-		\item \sixth
+		\item \fifth
 			\begin{itemize}
 				\item Fira-Firaga until all Borgbears are staggered
 			\end{itemize}
@@ -372,10 +372,10 @@ Go right at each fork to begin the mission.
 				\item Blitz-Blitz
 				\item \textit{Leave Borgbear Hero for last}
 			\end{itemize}	
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Repeat until victory
-			\end{itemize}																			
+			\end{itemize}														
 	\end{itemize}
 \end{battle}
 
@@ -389,11 +389,11 @@ Activate Mission 47 on the left.
 			\item \paradigmdeck{%
   				\paradigmline{Sazh}{Snow}{Vanille}}%
 				{\paradigmline[4]{\com}{\sen}{\med}}%
-				{\paradigmline{\com}{\com}{\sab}}%
-				{\paradigmline{(\sen)}{\sen}{(\med)}}%
-				{\paradigmline{\rav}{\rav}{\rav}}%
 				{\paradigmline{\sab}{\sen}{\sab}}%
+				{\paradigmline{(\sen)}{\sen}{(\med)}}%
+				{\paradigmline{\com}{\com}{\sab}}%
 				{\paradigmline{\rav}{\sen}{\rav}}%
+				{\paradigmline{\rav}{\rav}{\rav}}%
 		\end{itemize}
 	\crystarium
 		\begin{itemize}
@@ -420,7 +420,7 @@ Activate Mission 47 on the left.
 				\begin{itemize}
 					\item \rav
 						\begin{itemize}
-							\item back 2, right 1 (last stage 8 HP+100)
+							\item HP+100 OoR near the end of stage 8
 							\item All Stage 9 HP nodes
 							\item Magic+30 in final branch
 						\end{itemize}
@@ -451,7 +451,7 @@ Activate \textbf{Fortisol} and \textbf{Aegisol} before the battle.
 			\begin{itemize}
 				\item Attack-Blitz, \rav-buffer into [6]
 			\end{itemize}
-		\item \sixth
+		\item \fifth
 			\begin{itemize}
 				\item Cold Blood, immediately shift
 			\end{itemize}
@@ -463,7 +463,7 @@ Activate \textbf{Fortisol} and \textbf{Aegisol} before the battle.
 			\begin{itemize}
 				\item Repeat, \rav-buffer into [6]
 			\end{itemize}
-		\item \sixth
+		\item \fifth
 			\begin{itemize}
 				\item Repeat, immediately shift
 			\end{itemize}	
@@ -471,13 +471,13 @@ Activate \textbf{Fortisol} and \textbf{Aegisol} before the battle.
 			\begin{itemize}
 				\item Shift immediately after \stagger
 			\end{itemize}	
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Blitz-Blitz until victory
 					\begin{itemize}
 						\item Alternate with Snow to keep up interruption
 					\end{itemize}
-			\end{itemize}																			
+			\end{itemize}															
 	\end{itemize}
 \end{battle}
 \vfill
@@ -489,11 +489,11 @@ Activate \textbf{Fortisol} and \textbf{Aegisol} before the battle.
 			\item \paradigmdeck{%
   				\paradigmline{Sazh}{Snow}{Vanille}}%
 				{\paradigmline{\com}{\sen}{\med}}%
-				{\paradigmline[4]{\com}{\com}{\sab}}%
-				{\paradigmline{(\syn)}{\sen}{(\sab)}}%
-				{\paradigmline{\rav}{\rav}{\rav}}%
 				{\paradigmline{\sab}{\sen}{\sab}}%
+				{\paradigmline{(\syn)}{\sen}{(\sab)}}%
+				{\paradigmline[4]{\com}{\com}{\sab}}%
 				{\paradigmline{\rav}{\sen}{\rav}}%
+				{\paradigmline{\rav}{\rav}{\rav}}%
 		\end{itemize}
 	\equip
 		\begin{itemize}
@@ -534,7 +534,7 @@ Activate Mission 39 on the left.
 				\item Auto-Support Vanille ($\uparrow$)
 				\item Bravery-Enfire Sazh
 			\end{itemize}
-		\item \fifth
+		\item \second
 			\begin{itemize}
 				\item Auto-Hinder (Deprotect) Ochu
 					\begin{itemize}
@@ -546,7 +546,7 @@ Activate Mission 39 on the left.
 				\item Blitz-Blitz Ochu
 				\item Repeat until Ochu is dead
 			\end{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Repeat until victory, refresh with [1]
 			\end{itemize}												
@@ -563,7 +563,7 @@ Go right at each fork to begin the mission.
 				\item Auto-Support Vanille ($\uparrow$)
 				\item Bravery-Enfire Sazh
 			\end{itemize}
-		\item \fifth
+		\item \second
 			\begin{itemize}
 				\item Auto-Hinder (Deprotect) all Borgbears
 			\end{itemize}
@@ -571,7 +571,7 @@ Go right at each fork to begin the mission.
 			\begin{itemize}
 				\item Quake
 			\end{itemize}
-		\item \sixth
+		\item \fifth
 			\begin{itemize}
 				\item Fira-Firaga until all Borgbears are staggered
 			\end{itemize}
@@ -580,7 +580,7 @@ Go right at each fork to begin the mission.
 				\item Blitz-Blitz
 				\item \textit{Leave Borgbear Hero for last}
 			\end{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Repeat until victory
 			\end{itemize}																			
@@ -596,11 +596,11 @@ After M42, backtrack and go right to activate Mission 46.
 			\item \paradigmdeck{%
   				\paradigmline{Sazh}{Snow}{Vanille}}%
 				{\paradigmline{(\rav)}{\sen}{(\rav)}}%
-				{\paradigmline{\com}{\com}{\sab}}%
-				{\paradigmline{\syn}{\sen}{(\med)}}%
-				{\paradigmline{\rav}{(\sen)}{(\med)}}%
 				{\paradigmline[4]{\sab}{\sen}{\sab}}%
+				{\paradigmline{\syn}{\sen}{(\med)}}%
+				{\paradigmline{\com}{\com}{\sab}}%
 				{\paradigmline{\rav}{\sen}{\rav}}%
+				{\paradigmline{\rav}{(\sen)}{(\med)}}%
 		\end{itemize}
 	\crystarium
 		\begin{itemize}
@@ -655,11 +655,11 @@ After M42, backtrack and go right to activate Mission 46.
 
 \renewcommand{\first}{[1] Mystic Tower (\rav/\sen/\rav)}
 \renewcommand{\third}{[3] Protection (\syn/\sen/\med)}
-\renewcommand{\fourth}{[4] Entourage (\rav/\sen/\med)}
+\renewcommand{\sixth}{[6] Entourage (\rav/\sen/\med)}
 
 \begin{battle}{Mission 46: Zirnitra}
 	\begin{itemize}
-		\item \fifth
+		\item \second
 			\begin{itemize}
 				\item Auto-Hinder, let the string finish
 					\begin{itemize}
@@ -673,7 +673,7 @@ After M42, backtrack and go right to activate Mission 46.
 				\item Bravery-Enfire Sazh
 				\item Renew during/immediately after Feeding Stoop
 			\end{itemize}
-		\item \sixth
+		\item \first
 			\begin{itemize}
 				\item Fire-Aero-Fire-Aero-Fire
 				\item Repeat, refresh with [1] until \stagger
@@ -683,11 +683,11 @@ After M42, backtrack and go right to activate Mission 46.
 						\item Shift back to [1]/[6] if healthy and not dazed anymore
 					\end{itemize}
 			\end{itemize}
-		\item \sixth
+		\item \fifth
 			\begin{itemize}
 				\item Cold Blood at stagger
 			\end{itemize}
-		\item \second
+		\item \fourth
 			\begin{itemize}
 				\item Physicals until victory
 			\end{itemize}																			
@@ -701,11 +701,11 @@ After M42, backtrack and go right to activate Mission 46.
 			\item \paradigmdeck{%
   				\paradigmline{Sazh}{Snow}{Vanille}}%
 				{\paradigmline{(\com)}{(\com)}{(\com)}}%
-				{\paradigmline{\com}{\com}{\sab}}%
-				{\paradigmline{\syn}{\sen}{(\sab)}}%
-				{\paradigmline[4]{(\com)}{(\rav)}{(\rav)}}%
 				{\paradigmline{(\com)}{\sen}{\sab}}%
+				{\paradigmline{\syn}{\sen}{(\sab)}}%
+				{\paradigmline{\com}{\com}{\sab}}%
 				{\paradigmline{\rav}{\sen}{\rav}}%
+				{\paradigmline[4]{(\com)}{(\rav)}{(\rav)}}%				
 		\end{itemize}
 	\equip
 		\begin{itemize}
@@ -728,9 +728,9 @@ After M42, backtrack and go right to activate Mission 46.
 \end{menu}
 
 \renewcommand{\first}{[1] Cerberus (\com/\com/\com)}
+\renewcommand{\second}{[2] Dirty Fighting (\com/\sen/\sab)}
 \renewcommand{\third}{[3] Premeditation (\syn/\sen/\sab)}
-\renewcommand{\fourth}{[4] Relentless Assault (\com/\rav/\rav)}
-\renewcommand{\fifth}{[5] Dirty Fighting (\com/\sen/\sab)}
+\renewcommand{\sixth}{[6] Relentless Assault (\com/\rav/\rav)}
 
 FW Loop 6: 35 $\rightarrow$ 36 $\rightarrow$ 38 $\rightarrow$ 41 $\rightarrow$ 45 (Left $\rightarrow$ Left $\rightarrow$ Left $\rightarrow$ Left)
 
@@ -740,7 +740,7 @@ Activate Mission 36 on the left.
 
 \begin{battle}{Mission 36: Amam x2 -- Pre-Empt}
 	\begin{itemize}
-		\item \fourth
+		\item \sixth
 			\begin{itemize}
 				\item Immediately Attack x1 the other Amam
 					\begin{itemize}
@@ -751,7 +751,7 @@ Activate Mission 36 on the left.
 			\begin{itemize}
 				\item Bravery-Enfrost Sazh
 			\end{itemize}
-		\item \fifth
+		\item \second
 			\begin{itemize}
 				\item Blitz-Blitz
 				\item Repeat until victory
@@ -763,7 +763,7 @@ Activate Mission 38 on the far stone.
 
 \begin{battle}{Mission 38: Verdelet x3 \& Adroa}
 	\begin{itemize}
-		\item \fourth
+		\item \sixth
 			\begin{itemize}
 				\item Shift immediately
 			\end{itemize}
@@ -779,7 +779,7 @@ Activate Mission 41 on the left side (first one).
 
 \begin{battle}{Mission 41: Tonberry x3 -- Pre-Empt}
 	\begin{itemize}
-		\item \fourth
+		\item \sixth
 			\begin{itemize}
 				\item Quake
 			\end{itemize}
@@ -788,7 +788,7 @@ Activate Mission 41 on the left side (first one).
 				\item Auto-Support
 				\item Bravery-Enfire Sazh
 			\end{itemize}
-		\item \fifth
+		\item \second
 			\begin{itemize}
 				\item Blitz-Blitz
 				\item Repeat until two Tonberries are dead
@@ -858,7 +858,7 @@ Activate Mission 45 (in front).
 					\begin{itemize}
 						\item Umbra
 							\begin{itemize}
-								\item Sturdy Bone x36
+								\item Wicked Fang x41
 								\item Particle Accelerator x4
 								\item Adamantite
 							\end{itemize}
@@ -892,9 +892,9 @@ Activate Mission 45 (in front).
 				{\paradigmline{\com}{\com}{\com}}%
 				{\paradigmline[4]{\com}{(\sen)}{(\med)}}%
 				{\paradigmline{(\com)}{\sen}{(\rav)}}%
-				{\paradigmline{\rav}{(\sen)}{\rav}}%
-				{\paradigmline{(\syn)}{\sen}{(\med)}}%
-				{\paradigmline{(\sen)}{\sen}{(\sen)}}%
+				{\paradigmline{(\syn)}{(\sen)}{(\med)}}%
+				{\paradigmline{\rav}{\sen}{\rav}}%
+				{\paradigmline{(\sen)}{(\sen)}{(\sen)}}%
 		\end{itemize}
 	\crystarium
 		\begin{itemize}
@@ -902,7 +902,7 @@ Activate Mission 45 (in front).
 				\begin{itemize}
 					\item \rav
 						\begin{itemize}
-							\item HP nodes
+							\item HP+120 OoR
 						\end{itemize}
 					\item \syn
 						\begin{itemize}
@@ -921,7 +921,7 @@ Activate Mission 45 (in front).
 				\begin{itemize}
 					\item \sab
 						\begin{itemize}
-							\item HP nodes (end on HP+200 before T branch)
+							\item HP nodes (HP+100 in T branch)
 						\end{itemize}
 				\end{itemize}								
 		\end{itemize}
@@ -943,7 +943,7 @@ Activate Mission 45 (in front).
 			\item Vanille ($\rightarrow$)
 				\begin{itemize}
 					\item Sorcerer's Mark Lv.1 $\rightarrow$ Speed Sash Lv.1
-					\item Sorcerer's Mark* $\rightarrow$ Energy Sash Lv.1
+					\item Sorcerer's Mark* $\rightarrow$ Energy/Speed Sash Lv.1
 				\end{itemize}
 		\end{itemize}
 	\end{itemize}
@@ -952,8 +952,8 @@ Activate Mission 45 (in front).
 \renewcommand{\first}{[1] Cerberus (\com/\com/\com)}
 \renewcommand{\second}{[2] Solidarity (\com/\sen/\med)}
 \renewcommand{\third}{[3] Delta Attack (\com/\sen/\rav)}
-\renewcommand{\fourth}{[4] Mystic Tower (\rav/\sen/\rav)}
-\renewcommand{\fifth}{[5] Protection (\syn/\sen/\med)}
+\renewcommand{\fourth}{[4] Protection (\syn/\sen/\med)}
+\renewcommand{\fifth}{[5] Mystic Tower (\rav/\sen/\rav)}
 \renewcommand{\sixth}{[6] Tortoise (\sen/\sen/\sen)}
 
 Activate \textbf{Fortisol} and \textbf{Aegisol}.
@@ -966,7 +966,7 @@ Activate \textbf{Fortisol} and \textbf{Aegisol}.
 				\item Librascope
 				\item Attack-Blitz, \rav-buffer into [4]
 			\end{itemize}
-		\item \fourth
+		\item \fifth
 			\begin{itemize}
 				\item Cold Blood
 			\end{itemize}
@@ -982,7 +982,7 @@ Activate \textbf{Fortisol} and \textbf{Aegisol}.
 			\begin{itemize}
 				\item Wait for Screech to finish
 			\end{itemize}
-		\item \fifth
+		\item \fourth
 			\begin{itemize}
 				\item Bravery-Haste Sazh
 			\end{itemize}
@@ -990,12 +990,12 @@ Activate \textbf{Fortisol} and \textbf{Aegisol}.
 			\begin{itemize}
 				\item Repeat, \rav-buffer into [4]
 			\end{itemize}
-		\item \fourth
+		\item \fifth
 			\begin{itemize}
 				\item Repeat
 				\item Pollen should happen around here
 			\end{itemize}
-		\item \fifth
+		\item \fourth
 			\begin{itemize}
 				\item Dispelga
 				\item Repeat Sazh
@@ -1021,8 +1021,8 @@ Activate \textbf{Fortisol} and \textbf{Aegisol}.
 				{\paradigmline{\com}{(\sen)}{\com}}%
 				{\paradigmline[4]{\com}{(\com)}{(\sab)}}%
 				{\paradigmline{(\rav)}{\sen}{\rav}}%
-				{\paradigmline{\rav}{(\rav)}{\rav}}%
 				{\paradigmline{\syn}{\sen}{(\sab)}}%
+				{\paradigmline{\rav}{(\rav)}{\rav}}%
 				{\paradigmline{(\sab)}{\sen}{(\sab)}}%
 		\end{itemize}
 	\equip
@@ -1049,8 +1049,8 @@ Activate \textbf{Fortisol} and \textbf{Aegisol}.
 \renewcommand{\first}{[1] Offensive Screen (\com/\sen/\com)}
 \renewcommand{\second}{[2] Devastation (\com/\com/\sab)}
 \renewcommand{\third}{[3] Mystic Tower (\rav/\sen/\rav)}
-\renewcommand{\fourth}{[4] Tri-Disaster (\rav/\rav/\rav)}
-\renewcommand{\fifth}{[5] Premeditation (\syn/\sen/\sab)}
+\renewcommand{\fourth}{[4] Premeditation (\syn/\sen/\sab)}
+\renewcommand{\fifth}{[5] Tri-Disaster (\rav/\rav/\rav)}
 \renewcommand{\sixth}{[6] Countermeasure (\sab/\sen/\sab)}
 
 FW Loop 7: 35 $\rightarrow$ 37 $\rightarrow$ 40 $\rightarrow$ 43 $\rightarrow$ 51 (Right $\rightarrow$ Right $\rightarrow$ Left $\rightarrow$ Left)
@@ -1070,7 +1070,7 @@ After M40, go left and activate M43.
 			\begin{itemize}
 				\item Auto-Hinder (Deprotect) Borgbears \& Goblins
 			\end{itemize}
-		\item \fifth
+		\item \fourth
 			\begin{itemize}
 				\item Bravery-Enfire Sazh
 			\end{itemize}
@@ -1093,8 +1093,8 @@ Activate Mission 51 on the path ahead.
 				{\paradigmline{\com}{\sen}{\com}}%
 				{\paradigmline[4]{\com}{(\sen)}{\sab}}%
 				{\paradigmline{\rav}{\sen}{\rav}}%
-				{\paradigmline{(\sen)}{(\sen)}{(\com)}}%
 				{\paradigmline{\syn}{\sen}{(\med)}}%
+				{\paradigmline{(\sen)}{(\sen)}{(\com)}}%
 				{\paradigmline{(\sen)}{(\rav)}{\sab}}%
 		\end{itemize}
 	\crystarium
@@ -1107,7 +1107,8 @@ Activate Mission 51 on the path ahead.
 						\end{itemize}		
 					\item \syn
 						\begin{itemize}
-							\item HP nodes (3rd HP+120)
+							\item HP nodes
+							\item Stopga at end OoR
 						\end{itemize}
 				\end{itemize}
 			\item Snow
@@ -1121,7 +1122,7 @@ Activate Mission 51 on the path ahead.
 				\begin{itemize}
 					\item \sab
 						\begin{itemize}
-							\item HP nodes (HP+200)
+							\item 3 nodes (HP+200)
 						\end{itemize}		
 				\end{itemize}								
 		\end{itemize}
@@ -1138,8 +1139,8 @@ Activate Mission 51 on the path ahead.
 \end{menu}
 
 \renewcommand{\second}{[2] Dirty Fighting (\com/\sen/\sab)}
-\renewcommand{\fourth}{[4] Guarded Assault (\sen/\sen/\com)}
-\renewcommand{\fifth}{[5] Protection (\syn/\sen/\med)}
+\renewcommand{\fourth}{[4] Protection (\syn/\sen/\med)}
+\renewcommand{\fifth}{[5] Guarded Assault (\sen/\sen/\com)}
 \renewcommand{\sixth}{[6] Matador (\sen/\rav/\sab)}
 
 Activate \textbf{Fortisol} and \textbf{Aegisol}.
@@ -1162,13 +1163,13 @@ Activate \textbf{Fortisol} and \textbf{Aegisol}.
 			\begin{itemize}
 				\item Cold Blood, immediately shift
 			\end{itemize}
-		\item \fourth
+		\item \fifth
 			\begin{itemize}
 				\item Shift back after Sazh is done shooting
 			\end{itemize}
 		\item \third
 			\begin{itemize}
-				\item Repeat, immediately shift to [4] again
+				\item Repeat, immediately shift to [5] again
 					\begin{itemize}
 						\item Continue the loop until $\sim$550\% chain
 					\end{itemize}
@@ -1185,7 +1186,7 @@ Activate \textbf{Fortisol} and \textbf{Aegisol}.
 				\item Repeat, refreshing with [2] for Deprotect reinfliction until victory
 			\end{itemize}
 		\rule{.9\columnwidth}{1pt}
-		\item \textit{ If buffs wear off or Snow is low go to [5] and rebuff/heal (Protect-Shell Snow, Bravery-Haste Sazh/Vanille) \textbf{making sure not to lose chain}}
+		\item \textit{ If buffs wear off or Snow is low go to [4] and rebuff/heal (Protect-Shell Snow, Bravery-Haste Sazh/Vanille) \textbf{making sure not to lose chain}}
 	\end{itemize}
 \end{battle}
 
